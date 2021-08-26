@@ -100,9 +100,9 @@
           <div class="row input-field col s12">
             <i class="material-icons prefix">developer_mode</i>
             <select multiple id="referrer" class="pname">
-              <option value="iOS">iOS</option>
-              <option value="Android">Android</option>
-              <option value="Web">Web</option>
+              <option value="Pokerstars">Pokerstars</option>
+              <option value="Pokerstarssports">Pokerstarssports</option>
+              <option value="Pokerstarscasino">Pokerstarscasino</option>
             </select>
         </div>
       </div>
