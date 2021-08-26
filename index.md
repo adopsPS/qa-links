@@ -1,6 +1,5 @@
 QA LINK BUILDER
 
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -108,34 +107,47 @@ QA LINK BUILDER
           </div>
           <!--COUNTRY-->
           <h6>COUNTRY</h6>
-          <div class="row input-field col s12">
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter country code.">
           </div>
           <!--SIGNAL ID-->
           <h6>SIGNAL ID</h6>
-          <div class="row input-field col s12">
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter signal id.">
           </div>
           <!--WID-->
           <h6>WID</h6>
-          <div class="row input-field col s12">
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter wid.">
           </div>
           <!--DEVICE ID-->
           <h6>DEVICE ID</h6>
-          <div class="row input-field col s12">
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter device id.">
           </div>
           <!--GEO-->
           <h6>GEO</h6>
-          <div class="row input-field col s12">
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter country code.">
           </div>
           <!--APP ID-->
           <h6>APP ID</h6>
-          <div class="row input-field col s12">
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter app id.">
           </div>
         </div>
         <div id="siteDetails" class="col s12">
           <!--PLATFORM-->
           <h6>PLATFORM/h6>
-          <div class="row input-field col s12">
-            <i class="material-icons prefix">attach_money</i>
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please iOS or Android.">
           </div>
           <!--COST-->
           <h6>COST</h6>
