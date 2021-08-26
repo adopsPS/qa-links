@@ -69,6 +69,12 @@
             </select>
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
           </div>
+          <!--AMS ID-->
+          <h6>AMS ID</h6>
+            <div class="row input-field col s12">
+            <i class="material-icons prefix">account_circle</i>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter wid.">
+          </div>
           <!--SIGNAL ID-->
           <h6>SIGNAL ID</h6>
             <div class="row input-field col s12">
