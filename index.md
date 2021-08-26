@@ -109,6 +109,7 @@
           <option value="Android">Android</option>
           <option value="Web">Web</option>
         </select>
+        <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
         </div>
                   <!--REFERRER-->
           <h6>REFERRER</h6>
