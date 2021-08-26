@@ -64,6 +64,17 @@
             <i class="material-icons prefix">account_circle</i>
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter country code.">
           </div>
+          <!--TEST ATTRIBUTION-->
+          <h6>TEST ATTRIBUTION</h6>
+          <div class="row input-field col s12">
+            <i class="material-icons prefix">developer_mode</i>
+            <select multiple id="referrer" class="pname">
+              <option value="FirstDeposit">FirstDeposit</option>
+              <option value="SubsequentDeposit">SubsequentDeposit</option>
+              <option value="NewAccount">NewAccount</option>
+            </select>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
+          </div>
           <!--SIGNAL ID-->
           <h6>SIGNAL ID</h6>
             <div class="row input-field col s12">
@@ -111,4 +122,13 @@
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
         </div>
       </div>
+      
+      <b>OUTPUT</b>
+      
+https://s.thebrighttag.com/api?site=G58M8eX&referrer=pokerstars:FirstDeposit:AND&cn&INK&siteid=IN&promo=19368141pt=AND&afid=3f0d9b6b-b56a-4516-8d37-a746c8bf6dca &app_id=com.pyrsoftware.pokerstars.in 
+      
+      
   <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};handleClientLoad()" onreadystatechange="if (this.readyState === 'complete') this.onload()">
+
+    
+   
