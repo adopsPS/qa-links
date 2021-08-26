@@ -92,8 +92,12 @@
           <!--PLATFORM-->
           <h6>PLATFORM</h6>
             <div class="row input-field col s12">
-            <i class="material-icons prefix">account_circle</i>
-            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please iOS, Web or Android.">
+        <i class="material-icons prefix">developer_mode</i>
+        <select multiple id="referrer" class="pname">
+          <option value="iOS">iOS</option>
+          <option value="Android">Android</option>
+          <option value="Web">Web</option>
+        </select>
         </div>
                   <!--REFERRER-->
           <h6>REFERRER</h6>
