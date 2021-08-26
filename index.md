@@ -49,7 +49,6 @@ QA LINK BUILDER
 
   <title>SUBMIT QA DETAILS</title>
 
-    </div>
     <fieldset class="fieldSetForm" id="displayPlacementNamesFS" style="border: 0;">
       <div id="displayPlacementNames">
         <div id="campaignDetails" class="col s11">
