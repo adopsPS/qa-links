@@ -52,12 +52,6 @@
     <fieldset class="fieldSetForm" id="displayPlacementNamesFS" style="border: 0;">
       <div id="displayPlacementNames">
         <div id="campaignDetails" class="col s11">
-          <!--YOURNAME-->
-          <h6>YOUR NAME</h6>
-          <div class="row input-field col s12">
-            <i class="material-icons prefix">account_circle</i>
-            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter your name.">
-          </div>
           <!--COUNTRY-->
           <h6>COUNTRY</h6>
             <div class="row input-field col s12">
