@@ -126,7 +126,7 @@
       
       <b>OUTPUT</b>
       
-https://s.thebrighttag.com/api?site=G58M8eX&referrer=pokerstars:FirstDeposit:AND&cn&INK&siteid=IN&promo=19368141pt=AND&afid=3f0d9b6b-b56a-4516-8d37-a746c8bf6dca &app_id=com.pyrsoftware.pokerstars.in 
+<p>https://s.thebrighttag.com/api?site=G58M8eX&referrer=pokerstars:FirstDeposit:AND&cn&INK&siteid=IN&promo=19368141pt=AND&afid=3f0d9b6b-b56a-4516-8d37-a746c8bf6dca &app_id=com.pyrsoftware.pokerstars.in</p>
       
       
   <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};handleClientLoad()" onreadystatechange="if (this.readyState === 'complete') this.onload()">
