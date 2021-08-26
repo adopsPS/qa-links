@@ -3,6 +3,39 @@ QA LINK BUILDER
 <html>
 
 <head>
+  
+    <!--Import Google Icon Font-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/gh/linways/table-to-excel@v1.0.4/dist/tableToExcel.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
+  <script src="https://rawgit.com/unconditional/jquery-table2excel/master/src/jquery.table2excel.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/linways/table-to-excel@v1.0.4/dist/tableToExcel.js"></script>
+  <!--Import materialize.css-->
+  <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="iso-8859-1" />
+  <script type="text/javascript" src="js\materialize.min.js"></script>
+  <script type="text/javascript" src="js\traffickingrequestform.js"></script>
+  <script type="text/javascript" src="data\countries.json"></script>
+  <script type="text/javascript" src="data\countriesLL.json"></script>
+  <script type="text/javascript" src="data\networkNamesList.json"></script>
+  <script type="text/javascript" src="data\agencyNamesList.json"></script>
+  <script type="text/javascript" src="data\brands.json"></script>
+  <script type="text/javascript" src="data\platforms.json"></script>
+  <script type="text/javascript" src="data\countries.json"></script>
+  <script type="text/javascript" src="data\budgetCodes.json"></script>
+  <script type="text/javascript" src="data\platformCodes.json"></script>
+  <script type="text/javascript" src="data\buyingPlatforms.json"></script>
+  <script type="text/javascript" src="data\brandImages.json"></script>
+  <script type="text/javascript" src="data\budgets.json"></script>
+  <script type="text/javascript" src="data\kpis.json"></script>
+  <script type="text/javascript" src="data\buyingMetrics.json"></script>
+  <script type="text/javascript" src="data\dimensionsArr.json"></script>
+  <script type="text/javascript" src="data\dimensionsBannerArr.json"></script>
+  <script type="text/javascript" src="data\dimensionsVideoArr.json"></script>
+  <script type="text/javascript" src="data\advertIdsDCM.json"></script>
+  <script type="text/javascript" src="data\siteIdsDCM.json"></script>
 
   <title>SUBMIT QA DETAILS</title>
 
