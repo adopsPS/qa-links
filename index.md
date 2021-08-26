@@ -103,8 +103,12 @@
         </div>
                   <!--REFERRER-->
           <h6>REFERRER</h6>
-            <div class="row input-field col s12">
-            <i class="material-icons prefix">account_circle</i>
-            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please Pokerstars, Pokerstars Casino or Pokerstars Sports.">
+          <div class="row input-field col s12">
+            <i class="material-icons prefix">developer_mode</i>
+            <select multiple id="referrer" class="pname">
+              <option value="iOS">iOS</option>
+              <option value="Android">Android</option>
+              <option value="Web">Web</option>
+            </select>
         </div>
   <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};handleClientLoad()" onreadystatechange="if (this.readyState === 'complete') this.onload()">
