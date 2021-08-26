@@ -1,1 +1,8 @@
-test
+<html>
+  <head>
+   <title> Simple Test </title>
+
+   <script type="text/javascript" >
+      window.onload= function (){document.getElementById("mydiv").innerHTML=Date();}
+  </script>    
+ </head>
