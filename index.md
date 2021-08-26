@@ -124,7 +124,8 @@
         </div>
       </div>
       
-      <b>OUTPUT</b>
+      
+      <p><b>OUTPUT</b></p>
       
 <p>https://s.thebrighttag.com/api?site=G58M8eX&referrer=pokerstars:FirstDeposit:Android&cn=RO&siteid=RO&promo=psio-000-g-00&pt=Android&signalid=165213283571664&wid=NQOHSD&afid=1625734979030-1670685301048348724&app_id=com.pyrsoftware.pokerstars.ro</p>
       
