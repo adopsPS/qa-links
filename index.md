@@ -142,15 +142,11 @@ QA LINK BUILDER
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter app id.">
           </div>
         </div>
-        <div id="siteDetails" class="col s12">
           <!--PLATFORM-->
-          <h6>PLATFORM/h6>
+          <h6>PLATFORM</h6>
             <div class="row input-field col s12">
             <i class="material-icons prefix">account_circle</i>
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please iOS or Android.">
-          </div>
-          <!--COST-->
-          <h6>COST</h6>
         </div>
   </script>
   <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};handleClientLoad()" onreadystatechange="if (this.readyState === 'complete') this.onload()">
