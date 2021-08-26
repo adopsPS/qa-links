@@ -104,6 +104,7 @@
               <option value="Pokerstarssports">Pokerstarssports</option>
               <option value="Pokerstarscasino">Pokerstarscasino</option>
             </select>
+            <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
         </div>
       </div>
   <script async defer src="https://apis.google.com/js/api.js" onload="this.onload=function(){};handleClientLoad()" onreadystatechange="if (this.readyState === 'complete') this.onload()">
