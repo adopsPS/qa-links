@@ -121,8 +121,9 @@
         </select>
         <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
         </div>
+      </div>
           <!--STATUS OF PLAYER-->
-          <h6STATUS OF PLAYER</h6>
+          <h6>STATUS OF PLAYER</h6>
            <div class="row input-field col s12">
         <i class="material-icons prefix">developer_mode</i>
         <select multiple id="referrer" class="pname">
