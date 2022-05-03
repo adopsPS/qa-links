@@ -74,15 +74,11 @@
             <div class="row input-field col s12">
             <i class="material-icons prefix">account_circle</i>
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter wid.">
-          </div>
-        </div> 
           <!--Gender-->
           <h6>Gender</>
            <div class="row input-field col s12">
             <i class="material-icons prefix">account_circle</i>
             <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="Please enter wid."> 
-          </div>
-      </div>
           <!--Age-->
           <h6>Age</>
            <div class="row input-field col s12">
@@ -122,6 +118,16 @@
           <option value="iOS">iOS</option>
           <option value="Android">Android</option>
           <option value="Web">Web</option>
+        </select>
+        <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
+        </div>
+          <!--STATUS OF PLAYER-->
+          <h6STATUS OF PLAYER</h6>
+           <div class="row input-field col s12">
+        <i class="material-icons prefix">developer_mode</i>
+        <select multiple id="referrer" class="pname">
+          <option value="REAL MONEY">REAL MONEY</option>
+          <option value="PLAY MONEY">PLAY MONEY</option>
         </select>
         <input id="requester" style="text-transform: uppercase" type="text" class="validate tooltipped" data-position="right" data-tooltip="">
         </div>
